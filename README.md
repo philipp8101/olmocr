@@ -23,6 +23,15 @@
   </a>
 </p>
 
+# this fork adds nix support
+start the development shell which will have all dependencies installed.
+```bash
+nix develop
+```
+use the library as described [below](#local-usage-example)
+
+#
+
 A toolkit for training language models to work with PDF documents in the wild.
 
 Try the online demo: [https://olmocr.allenai.org/](https://olmocr.allenai.org/)
